@@ -1,0 +1,11 @@
+{
+  "name": "jq-dreg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jq-dreg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
